@@ -1,11 +1,13 @@
 # Køb
 
+## Rejse
 * Fugtigheds creme til hænder
 * Hylster til tandbørste
 * Tandtråd
 * Tandpasta
 * Strømadapter
 
+## Andet
 * Klatre kridt + pung
 * Etrian Odyssey?
 
